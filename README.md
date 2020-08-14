@@ -1,3 +1,4 @@
-# to App Format
-My VBA scripts from various projects
-The "Globe" code files mentioned are macros which extract relevant points from a source table and restate them in a workable .json or .cs file, depending on the destination app--android or iOS, respectively.
+# Collateral Project Data Pipeline
+Macros, interfaces, and custom VBA functions for use in Access, Excel, and others to support the process of project data sheet creation. 
+Upon opening the dataset, the user is prompted with a dialog box with selectable features to manually designate where in the process of creation a project sheet currently stands.
+Selection of "Add Project" will implement a series of custom comparisons with existing entries, and will provide a report back to the user indicating the level of success
